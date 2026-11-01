@@ -241,4 +241,4 @@ This repository serves as the official landing page for Hidetools Child Control.
 **Get the most recent version of Hidetools Child Control today!**
 
 ---
-**Last updated:** 2026-10-31 22:00:16 UTC
+**Last updated:** 2026-11-01 01:36:12 UTC
